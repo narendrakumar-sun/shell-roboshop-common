@@ -5,7 +5,7 @@
 # Project : Roboshop Common
 # Program : User server
 #######################################
-
+app_name=user
 source ./common.sh
 
 check_root
