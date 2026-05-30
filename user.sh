@@ -5,9 +5,9 @@
 # Project : Roboshop Common
 # Program : User server
 #######################################
-app_name=user
-source ./common.sh
 
+source ./common.sh
+app_name=user
 check_root
 app_setup
 nodejs_setup
